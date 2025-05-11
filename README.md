@@ -3,7 +3,7 @@
 [![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/downloads/release/python-3130/)
 [![Django](https://img.shields.io/badge/django-latest-green.svg)](https://www.djangoproject.com/)
 
-A Django-based service that synchronizes course content between edX and Virtu Educate's learning management system.
+A Django-based service that synchronizes course content between edX and Virtu Educate's backend.
 
 ## Overview
 
